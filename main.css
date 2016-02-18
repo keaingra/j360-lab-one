@@ -1,7 +1,7 @@
 header {text-align: center;}
 nav>ul>li {display: inline; text-decoration: none; list-style-type: none; font-size: 18px; color: white;}
 a {text-decoration: none;}
-body {background-color: #2E4272; font-family: Helvetica;}
+body {background-color: #2E4272; font-family: Helvetica; color: white; text-align: center;}
 p {font-size: 16px;}
 h1 {font-family: Arial; font-size: 32px; color: white;}
 body>ol>li {font-size: 18px; text-align: center; color: white; list-style-type: none; text-decoration: none; font-family: helvetica;}
@@ -13,4 +13,6 @@ a:hover {color: white;}
 caption {color: white; font-size: 18px;}
 img.align-center {display: block; margin: 0px auto;}
 figure {align-items: center; display: block; margin: 0px auto;}
-p {color: white; font-family: Helvetica;}
+p {color: white; font-family: Helvetica; font-size; 12px; text-align: left;}
+ul>li {text-decoration: none; list-style-type: none; font-size: 22px; color: white;}
+ol>li {text-decoration: none; list-style-type: none; font-size: 22px; color; white;}
