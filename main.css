@@ -1,7 +1,12 @@
 header {text-align: center;}
-nav>ul>li {display: inline; text-decoration: none; list-style-type: none; font-size: 18px;}
+nav>ul>li {display: inline; text-decoration: none; list-style-type: none; font-size: 18px; color: white;}
 a {text-decoration: none;}
 body {background-color: #2E4272; font-family: Helvetica;}
 p {font-size: 16px;}
-h1 {font-family: Arial; font-size: 32px;
-body>ol>li {font-size: 18px;}
+h1 {font-family: Arial; font-size: 32px; color: white;}
+body>ol>li {font-size: 18px; text-align: center;}
+body>ul>li
+a:link {color: white;}
+a:visited {color: white;}
+a:active {color: white;}
+a:hover {color: white;}
