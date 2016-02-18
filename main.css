@@ -5,8 +5,11 @@ body {background-color: #2E4272; font-family: Helvetica;}
 p {font-size: 16px;}
 h1 {font-family: Arial; font-size: 32px; color: white;}
 body>ol>li {font-size: 18px; text-align: center;}
-body>ul>li
+body>ul>li {font-size: 18px; text-align: center;}
 a:link {color: white;}
 a:visited {color: white;}
 a:active {color: white;}
 a:hover {color: white;}
+caption {color: white; font-size: 18px;}
+img.align-center {display: block; margin: 0px auto;}
+figure {align-items: center; display: block; margin: 0px auto;}
